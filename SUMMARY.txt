@@ -1,4 +1,4 @@
-TVBox 接口抓取报告  20261110_081057
+TVBox 接口抓取报告  20261111_054611
 ==============================================================
 
 [裤佬线路] okhttp/3.15
@@ -156,10 +156,10 @@ TVBox 接口抓取报告  20261110_081057
   文件: None
   成功URL: 
 
-[嗨哥魔改] 
-  状态: FAILED
-  文件: None
-  成功URL: 
+[嗨哥魔改] okhttp/3.15
+  状态: TEXT
+  文件: tvbox/嗨哥魔改.json
+  成功URL: https://api.hgyx.vip/hgyx.json
 
 [讴歌] 
   状态: FAILED
@@ -271,10 +271,10 @@ TVBox 接口抓取报告  20261110_081057
   文件: tvbox/哈吉米.json
   成功URL: https://17264.kstore.space/哈基米.png
 
-[真六] 
-  状态: FAILED
-  文件: None
-  成功URL: 
+[真六] okhttp/3.15
+  状态: JSON
+  文件: tvbox/真六.json
+  成功URL: https://cccimg.com/down.php/7d1f30263b3f2bf3deda2d7faeef4844.zhen6
 
 [动漫] okhttp/3.15
   状态: JSON
